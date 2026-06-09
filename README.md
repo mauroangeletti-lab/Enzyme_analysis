@@ -1,4 +1,5 @@
 Enzyme_analysis is able to fit enzymatic activity vs. [I] inhibitor concentration, using fitting equations by Bieth 1974, m.angeletti 2026
+Use in Colab, and you can add your own data
 
 Bieth, J. (1974). Some Kinetic Consequences of the Tight Binding of Protein-Proteinase-Inhibitors to Proteolytic Enzymes 
 and their Application to the Determination of Dissociation Constants. In: Fritz, H., Tschesche, H., Greene, L.J., Truscheit, E. (eds) 
